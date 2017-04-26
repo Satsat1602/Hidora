@@ -1,6 +1,7 @@
 /******************************************************************************
  *  Compilation:  javac HelloWorld.java
  *  Execution:    java HelloWorld
+ *  Autor: Dino
  *
  *  Prints "Hello, World". By tradition, this is everyone's first program.
  *

@@ -1,0 +1,5 @@
+Project-Name : app-jelastic-helloworld
+Project-Version : 4.9.5.3
+Revision : 3a19ec7a62300fe0686284cbc120f1d49a9ac1e5
+Build-Number : 1
+Build-Date : 2017-01-23 13:47 UTC
